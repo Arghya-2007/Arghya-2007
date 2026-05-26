@@ -1,103 +1,189 @@
-<h1 align="center">Hey, I'm Arghya Pal 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Aspiring MLOps & AI Infrastructure Engineer</b><br/>
-  BCA Student @ Techno Main Salt Lake · Graduating 2029<br/>
-  Building toward the intersection of Cloud, DevOps, and AI Systems
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Arghya%20Pal&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=MLOps%20%7C%20Cloud%20%7C%20AI%20Infrastructure&descAlignY=60&descSize=18&descColor=8B949E" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arghya-pal-2b866038b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arghya%20Pal-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arghya.github@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arghya.github@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arghya-2007">
-    <img src="https://img.shields.io/badge/GitHub-Arghya--2007-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+MLOps+%26+AI+Infra+Engineer;Full+Stack+Developer+%7C+App+Builder;Cloud+%7C+DevOps+%7C+Kubernetes+Learner;Building+the+infra+that+runs+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arghya%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghya-pal-2b866038b/)
+[![Gmail](https://img.shields.io/badge/Gmail-arghya.github@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghya.github@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Arghya--2007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arghya-2007)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arghya-2007&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://github.com/Arghya-2007)
 
-I'm a BCA student with a foundation in full-stack web and mobile development, now deep-diving into Cloud Engineering, DevOps, and AI Infrastructure. My goal is to specialize in the systems that run AI in production — the pipelines, platforms, and infrastructure that make machine learning actually work at scale.
-
-I'm building toward that with a structured 4-year roadmap focused on AWS, Kubernetes, Terraform, and MLOps tooling.
+</div>
 
 ---
 
-## What I'm Working On
+## 👨‍💻 About Me
 
-- 🐧 Mastering **Linux internals** and system administration  
-- ☁️ Getting hands-on with **AWS** (EC2, S3, IAM, VPC)  
-- 🐳 Learning **Docker** and container fundamentals  
-- ☸️ Exploring **Kubernetes** for container orchestration  
-- 🏗️ Understanding **System Architecture** and distributed systems  
+```yaml
+name: Arghya Pal
+location: Kolkata, West Bengal, India
+education:
+  degree: Bachelor of Computer Applications (BCA)
+  college: Techno Main Salt Lake
+  graduating: 2029
 
----
+current_focus:
+  - Building strong Cloud & DevOps foundations
+  - Learning MLOps and AI Infrastructure Engineering
+  - Mastering Kubernetes, Docker, and Terraform
+  - Exploring Linux systems and distributed architecture
 
-## Skill Set
+goal: "Deploy and scale AI systems in production by 2029"
 
-**Currently shipping with:**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Actively learning:**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**On the 2029 roadmap:**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+fun_fact: "I believe the best AI model is useless without solid infra behind it."
+```
 
 ---
 
-## The Plan (2025 → 2029)
+## 🎯 2025–2029 Roadmap
 
-| Phase | Timeline | Focus |
-|-------|----------|-------|
-| 🔵 Foundation | 2025–2026 | Linux · Python · AWS basics · Git |
-| 🟢 Core Stack | 2026–2027 | Docker · Kubernetes · Terraform · CI/CD |
-| 🟡 Specialization | 2027–2028 | MLOps · Observability · Cloud Security |
-| 🟣 Job-Ready | 2028–2029 | Capstone projects · Open source · Certifications |
+> *Systematic path from BCA student → MLOps/AI Infra Engineer*
 
-**Certification targets:** AWS Cloud Practitioner → AWS Solutions Architect Associate → CKA → AWS DevOps Engineer Professional
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghya-2007&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-2007&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+| Phase | Timeline | Focus | Status |
+|-------|----------|-------|--------|
+| 🔵 Foundation | 2025–2026 | Linux, Python, AWS Basics, Git | `In Progress` |
+| 🟢 Core Stack | 2026–2027 | Docker, Kubernetes, Terraform, CI/CD | `Upcoming` |
+| 🟡 Specialization | 2027–2028 | MLOps, SRE, Cloud Security, Data Pipelines | `Planned` |
+| 🟣 Job-Ready | 2028–2029 | AI Infra Projects, Open Source, Certifications | `Planned` |
 
 ---
 
-## Let's Connect
+## 🛠️ Tech Stack
 
-I'm always open to talking about cloud infrastructure, DevOps practices, AI systems, or just tech in general.
+### 💻 Currently Working With
 
-📬 [arghya.github@gmail.com](mailto:arghya.github@gmail.com)  
-💼 [linkedin.com/in/arghya-pal-2b866038b](https://www.linkedin.com/in/arghya-pal-2b866038b/)
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+### ☁️ Cloud & DevOps (Learning)
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+### 🤖 MLOps & AI Infra (Target Stack)
+
+<div align="center">
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arghya-2007&color=blue&style=flat&label=Profile+Views" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arghya-2007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-2007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-2007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## 🏆 Certifications (Planned)
+
+| Certification | Provider | Target Date | Status |
+|--------------|----------|-------------|--------|
+| AWS Cloud Practitioner | Amazon Web Services | 2026 Q1 | 🔄 Preparing |
+| AWS Solutions Architect Associate | Amazon Web Services | 2027 Q1 | 📅 Planned |
+| Certified Kubernetes Administrator (CKA) | CNCF | 2027 Q2 | 📅 Planned |
+| AWS DevOps Engineer Professional | Amazon Web Services | 2028 Q1 | 📅 Planned |
+
+---
+
+## 🌱 Currently Learning
+
+```bash
+$ ls ~/learning/
+
+  linux/          → File system, bash scripting, process management
+  aws/            → EC2, S3, IAM, VPC, Lambda, CloudWatch
+  docker/         → Images, containers, Dockerfiles, Compose
+  kubernetes/     → Pods, deployments, services, Helm
+  terraform/      → Infrastructure as Code on AWS
+  system-design/  → Distributed systems, scalability, trade-offs
+```
+
+---
+
+## 📌 Featured Projects
+
+> *Building in public — watch this space grow from 2025 to 2029*
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arghya-2007&repo=Arghya-2007&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Arghya-2007)
+
+</div>
+
+> 🔨 **Upcoming:** AI model deployment pipeline on AWS EKS with Terraform + Prometheus monitoring  
+> 🔨 **Upcoming:** Internal developer platform with self-service Kubernetes namespaces  
+> 🔨 **Upcoming:** Full-stack app with containerized microservices architecture
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> *"The most powerful AI model is only as good as the infrastructure running it.  
+> I'm here to build that infrastructure."*
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on cloud projects, open-source contributions, or just talking about AI infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghya-pal-2b866038b/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghya.github@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn"/>
+
+</div>
