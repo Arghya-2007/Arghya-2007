@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Arghya%20Pal&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=MLOps%20%7C%20Cloud%20%7C%20AI%20Infrastructure&descAlignY=60&descSize=18&descColor=8B949E" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+MLOps+%26+AI+Infra+Engineer;Full+Stack+Developer+%7C+App+Builder;Cloud+%7C+DevOps+%7C+Kubernetes+Learner;Building+the+infra+that+runs+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -103,14 +101,15 @@ fun_fact: "I believe the best AI model is useless without solid infra behind it.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arghya-2007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-2007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arghya-2007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-2007&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-2007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Arghya-2007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -146,12 +145,6 @@ $ ls ~/learning/
 
 > *Building in public — watch this space grow from 2025 to 2029*
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arghya-2007&repo=Arghya-2007&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Arghya-2007)
-
-</div>
-
 > 🔨 **Upcoming:** AI model deployment pipeline on AWS EKS with Terraform + Prometheus monitoring  
 > 🔨 **Upcoming:** Internal developer platform with self-service Kubernetes namespaces  
 > 🔨 **Upcoming:** Full-stack app with containerized microservices architecture
@@ -184,6 +177,6 @@ I'm always open to collaborating on cloud projects, open-source contributions, o
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
 
 </div>
