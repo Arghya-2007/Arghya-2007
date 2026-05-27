@@ -143,18 +143,16 @@ const arghya = {
 ## `> github --stats`
 
 <div align="center">
-
-<a href="https://github.com/Arghya-2007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arghya-2007&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00fff5&icon_color=a0a0ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-2007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00fff5&text_color=ffffff"/>
-</a>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Arghya-2007&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=00fff5&fire=ff6edf&currStreakLabel=a0a0ff" />
-
+<br/><br/>
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arghya-2007&theme=github_dark" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arghya-2007&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arghya-2007&theme=github_dark" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghya-2007&bg_color=0d0d1a&color=00fff5&line=a0a0ff&point=ff6edf&area=true&hide_border=true" />
 </div>
-
 ---
 
 ## `> cat roadmap.txt`
